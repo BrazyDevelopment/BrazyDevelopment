@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrazyDevelopment
+- 👋 Hi, I’m Brazy!
 - 👀 I’m interested in programming, gaming, cryptocurrency, going to the gym & I love Coca-Cola!
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on projects with developers who are looking to contribute to open source work.
