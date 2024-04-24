@@ -5,7 +5,7 @@
 - 📫 How to reach me: https://www.armour.dev/contact
 - ⚡ Fun fact: I am a legal medicinal cannabis patient in the UK.
 - 
-![Alt text]([image URL](https://github-readme-stats.vercel.app/api?username=BrazyDevelopment&show_icons=true&theme=radical))
+<img src="https://github-readme-stats.vercel.app/api?username=BrazyDevelopment&show_icons=true&theme=radical" alt="GitHub Stats">
 
 
 <!---
