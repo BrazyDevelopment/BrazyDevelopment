@@ -5,6 +5,8 @@
 - 📫 How to reach me: https://www.armour.dev/contact
 - ⚡ Fun fact: I am a legal medicinal cannabis patient in the UK.
 
+https://github-readme-stats.vercel.app/api?username=BrazyDevelopment&show_icons=true&theme=radical
+
 <!---
 BrazyDevelopment/BrazyDevelopment is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
