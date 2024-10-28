@@ -5,7 +5,7 @@
 - 📫 How to reach me: https://www.armour.dev/contact
 - ⚡ Fun facts: I am a legal medicinal cannabis patient & a proud Freemason.
 
-<img style="height: 30vh;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrazyDevelopment&show_icons=true&theme=radical" alt="GitHub Stats"><img style="height: 30vh;" src="https://github-readme-stats.vercel.app/api?username=BrazyDevelopment&show_icons=true&theme=radical" alt="GitHub Stats">
+<img style="height: 30vh;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrazyDevelopment&show_icons=true&theme=holi" alt="GitHub Stats"><img style="height: 30vh;" src="https://github-readme-stats.vercel.app/api?username=BrazyDevelopment&show_icons=true&theme=holi" alt="GitHub Stats">
 
 
 
