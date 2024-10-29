@@ -7,6 +7,8 @@
 
 <img style="height: 30vh;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrazyDevelopment&show_icons=true&theme=holi" alt="GitHub Stats"><img style="height: 30vh;" src="https://github-readme-stats.vercel.app/api?username=BrazyDevelopment&show_icons=true&theme=holi" alt="GitHub Stats">
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrazyDevelopment&repo=TradeWise)](https://github.com/BrazyDevelopment/TradeWise)
+
 
 
 <!---
