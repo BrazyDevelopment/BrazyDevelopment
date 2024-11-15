@@ -7,7 +7,7 @@
 
 <img style="height: 30vh;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrazyDevelopment&show_icons=true&theme=holi" alt="GitHub Stats"><img style="height: 30vh;" src="https://github-readme-stats.vercel.app/api?username=BrazyDevelopment&show_icons=true&theme=holi" alt="GitHub Stats">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrazyDevelopment&repo=TradeWise&theme=holi)](https://github.com/BrazyDevelopment/cinescope)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrazyDevelopment&repo=cinescope&theme=holi)](https://github.com/BrazyDevelopment/cinescope)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrazyDevelopment&repo=TradeWise&theme=holi)](https://github.com/BrazyDevelopment/TradeWise)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrazyDevelopment&repo=google-translate-discordbot&theme=holi)](https://github.com/BrazyDevelopment/google-translate-discordbot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrazyDevelopment&repo=nyanobot&theme=holi)](https://github.com/BrazyDevelopment/nyanobot)
