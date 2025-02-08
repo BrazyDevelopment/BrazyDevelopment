@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on projects with developers who are looking to contribute to open source work.
 - 📫 How to reach me: https://www.armour.dev/contact
-- ⚡ Fun facts: I am a legal medicinal cannabis patient & a proud Freemason.
+- ⚡ Fun facts: I am a legal medicinal cannabis patient.
 
 <img style="height: 30vh;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrazyDevelopment&show_icons=true&theme=holi" alt="GitHub Stats"><img style="height: 30vh;" src="https://github-readme-stats.vercel.app/api?username=BrazyDevelopment&show_icons=true&theme=holi" alt="GitHub Stats">
 
