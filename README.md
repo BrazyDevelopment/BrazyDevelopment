@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, gaming, cryptocurrency, going to the gym & I love Coca-Cola!
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on projects with developers who are looking to contribute to open source work.
-- 📫 How to reach me: https://www.armour.dev/contact
+- 📫 How to reach me: Discord: brazyuk
 - ⚡ Fun facts: I am a legal medicinal cannabis patient.
 
 <img style="height: 30vh;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrazyDevelopment&show_icons=true&theme=holi" alt="GitHub Stats"><img style="height: 30vh;" src="https://github-readme-stats.vercel.app/api?username=BrazyDevelopment&show_icons=true&theme=holi" alt="GitHub Stats">
