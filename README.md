@@ -13,7 +13,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrazyDevelopment&repo=discord-meme-generator&theme=holi)](https://github.com/BrazyDevelopment/discord-meme-generator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrazyDevelopment&repo=FiveM-PropSpawner&theme=holi)](https://github.com/BrazyDevelopment/FiveM-PropSpawner)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrazyDevelopment&repo=cinescope&theme=holi)](https://github.com/BrazyDevelopment/cinescope)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrazyDevelopment&repo=website-template-scraper&theme=holi)](https://github.com/BrazyDevelopment/website-template-scraper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrazyDevelopment&repo=nyanobot&theme=holi)](https://github.com/BrazyDevelopment/nyanobot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrazyDevelopment&repo=ReactLoadingScreen&theme=holi)](https://github.com/BrazyDevelopment/ReactLoadingScreen)
 
