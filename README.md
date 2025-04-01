@@ -10,6 +10,7 @@
 
 <img style="height: 30vh;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrazyDevelopment&show_icons=true&theme=holi" alt="GitHub Stats"><img style="height: 30vh;" src="https://github-readme-stats.vercel.app/api?username=BrazyDevelopment&show_icons=true&theme=holi" alt="GitHub Stats">
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrazyDevelopment&repo=nanomapr&theme=holi)](https://github.com/BrazyDevelopment/nanomap)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrazyDevelopment&repo=nakomoto-coefficient-calculator&theme=holi)](https://github.com/BrazyDevelopment/nakomoto-coefficient-calculator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrazyDevelopment&repo=TradeWise&theme=holi)](https://github.com/BrazyDevelopment/TradeWise)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrazyDevelopment&repo=google-translate-discordbot&theme=holi)](https://github.com/BrazyDevelopment/google-translate-discordbot)
