@@ -8,19 +8,24 @@
 - # 💻 Tech Stack:
 
 🧑‍💻 Programming Languages:
+
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff) ![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff) ![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)
  
 💻 Code Editors:
+
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black) ![CodePen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black) ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important) ![Gitpod](https://img.shields.io/badge/Gitpod-FFAE33?logo=gitpod&logoColor=fff)
 
 🤝 Collaboration Tools:
+
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff) 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white) 
 
 🤖 Artificial Intelligence:
+
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff) ![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff) ![v0](https://img.shields.io/badge/v0-000?style=for-the-badge&logo=v0&logoColor=fff) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff) 
 
 🌫️ Cloud Storage:
+
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe)
  
 Cryptocurrency:
